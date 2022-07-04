@@ -2,8 +2,8 @@ This simple project describes a fictitious gopher, that moves around a field bas
 
 What we would like you to do is refactor the code for us. We like to use Golang best practices, and well formed OO code. 
 
-***Big Hint: There's a reason we call it the IffyGopher: we don't like to many conditionals.***
+***Big Hint: There's a reason we call it the IffyGopher: we don't like too many conditionals.***
 
-Remember to keep communicating your thought process, as it will help us understand your approach.
+Feel free to use Google, however remember to keep communicating your thought process, as it will help us understand your approach.
 
 Good Luck!
