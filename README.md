@@ -4,4 +4,6 @@ What we would like you to do is refactor the code for us. We like to use Golang 
 
 ***Big Hint: There's a reason we call it the IffyGopher: we don't like to many conditionals.***
 
+Remember to keep communicating your thought process, as it will help us understand your approach.
+
 Good Luck!
